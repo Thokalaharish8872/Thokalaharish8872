@@ -1,3 +1,2 @@
-- 👋  is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ becaus its `READE.md` (thi file) appers on your Gitub profile.
+You ca lick the review 
